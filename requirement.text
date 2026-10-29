@@ -1,0 +1,12 @@
+%%writefile requirements.txt
+
+fastapi
+uvicorn
+pandas
+catboost
+joblib
+pydantic
+scikit-learn
+xgboost
+lightgbm
+numpy
